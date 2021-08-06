@@ -1,3 +1,3 @@
-# amzkit4j
+# esgkit4j
 
-Amazonascoin Java Development Framework
+Esgcoin Java Development Framework
